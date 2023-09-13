@@ -1,16 +1,13 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Guilherme!)
 
-<!--
-**guilhermefiig/guilhermefiig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Sou estudante de Ciência da Computação focado na área de desenvolvimento backend. Compartilho meus projetos aqui no meu perfil.</p><br>
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermefiig&show_icons=true&theme=dark) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermefiig&show_icons=true&theme=dark)
+
+<p align="left">
+  <a href="https://instagram.com/guilhermefiig" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilherme.figueiredosc@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-figueir%C3%AAdo-778508262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
